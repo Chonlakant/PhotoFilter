@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material DEFAULT colors -->
+    <color name="material_drawer_primary">#2196F3</color>
+    <color name="material_drawer_primary_dark">#1976D2</color>
+    <color name="material_drawer_primary_light">#BBDEFB</color>
+    <color name="material_drawer_accent">#FF4081</color>
+    <color name="material_drawer_window_background">#F9F9F9</color>
+    <color name="material_drawer_background">#F9F9F9</color>
+    <!-- Material DEFAULT text / items colors -->
+    <color name="material_drawer_icons">#F9F9F9</color>
+    <color name="material_drawer_primary_text">#212121</color>
+    <color name="material_drawer_secondary_text">#727272</color>
+    <color name="material_drawer_hint_text">#B8B8B8</color>
+    <color name="material_drawer_divider">#B6B6B6</color>
+    <!-- Material DEFAULT drawer colors -->
+    <color name="material_drawer_selected">#E8E8E8</color>
+    <color name="material_drawer_selected_text">#2196F3</color>
+    <color name="white">#fff</color>
+    <color name="md_blue_grey_400">#78909c</color>
+    <color name="md_blue_grey_50">#eceff1</color>
+    <color name="md_blue_grey_500">#607d8b</color>
+    <color name="material_drawer_dark_hint_text">#252525</color>
+    <color name="hint_text">#252525</color>
+    <color name="primary_text">#252525</color>
+    <color name="primary_dark">#252525</color>
+
+    <color name="indigo_500">#3f51b5</color>
+    <color name="indigo_700">#303f9f</color>
+    <color name="cyan_500">#00bcd4</color>
+
+    <color name="primary">#3f51b5</color>
+    <color name="primaryDark">#303f9f</color>
+    <color name="accent">#eeff41</color>
+    <color name="accentLight">#F4FF81</color>
+
+    <color name="windowBackgroundColor">#333333</color>
+    <color name="black_translucent">#80000000</color>
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+
+    <color name="fab_color_pressed">#007787</color>
+    <color name="fab_color_shadow">#44000000</color>
+
+    <color name="transparent">#80000000</color>
+    <color name="player_overlay">#55000000</color>
+
+    <!-- Chat Color -->
+    <color name="username0">#e21400</color>
+    <color name="username1">#91580f</color>
+    <color name="username2">#f8a700</color>
+    <color name="username3">#f78b00</color>
+    <color name="username4">#58dc00</color>
+    <color name="username5">#287b00</color>
+    <color name="username6">#a8f07a</color>
+    <color name="username7">#4ae8c4</color>
+    <color name="username8">#3b88eb</color>
+    <color name="username9">#3824aa</color>
+    <color name="username10">#a700ff</color>
+    <color name="username11">#d300e7</color>
+
+    <array name="username_colors">
+        <item>@color/username0</item>
+        <item>@color/username1</item>
+        <item>@color/username2</item>
+        <item>@color/username3</item>
+        <item>@color/username4</item>
+        <item>@color/username5</item>
+        <item>@color/username6</item>
+        <item>@color/username7</item>
+        <item>@color/username8</item>
+        <item>@color/username9</item>
+        <item>@color/username10</item>
+        <item>@color/username11</item>
+    </array>
+
+    <color name="actionbar">#3cb879</color>
+    <color name="body_background">#e8e8e8</color>
+    <color name="body_background_green">#82e783</color>
+    <color name="server_status_bar">#2b2b2b</color>
+    <color name="title_gray">#434343</color>
+    <color name="bg_msg_you">#5eb964</color>
+    <color name="bg_msg_from">#e5e7eb</color>
+    <color name="msg_border_color">#a1a1a1</color>
+    <color name="bg_btn_join">#1e6258</color>
+    <color name="bg_msg_input">#e8e8e8</color>
+    <color name="text_msg_input">#626262</color>
+    <color name="lblFromName">#777777</color>
+
+    <color name="black">#000000</color>
+    <color name="vm_main_color">#000066</color>
+
+
+
+
+
+
+    <color name="offline">#aaaaaa</color>
+    <color name="online">#02c754</color>
+
+    <color name="btn_default_light_normal">#00000000</color>
+    <color name="btn_default_light_pressed">#40ffffff</color>
+
+    <color name="btn_send_normal">#02c754</color>
+    <color name="btn_send_pressed">#006633</color>
+    <color name="btn_default_shadow">#99000000</color>
+    <color name="btn_context_menu_normal">#ffffff</color>
+    <color name="btn_context_menu_pressed">#40000000</color>
+    <color name="btn_context_menu_text_red">#ffff0000</color>
+
+
+    <color name="tab_top_bar_color">#ff24292c</color>
+    <color name="join_group_text_color">#ff99c500</color>
+    <color name="youdao_check_color">#ff868686</color>
+    <color name="youdao_background_color">#fff0f0f0</color>
+    <color name="join_group_text_color_half">#7f99c500</color>
+
+    <color name="fab_menu">#3296f6</color>
+    <color name="fab_chat">#fc9700</color>
+    <color name="fab_live_chat">#d31f10</color>
+    <color name="fab_group_chat">#363f46</color>
+    <color name="fab_conference">#4cae47</color>
+</resources>
